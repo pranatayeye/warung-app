@@ -1,0 +1,25 @@
+body{
+    background-color: var(--bs-dark);
+}
+
+header{
+    background-color: var(--bs-dark);
+}
+
+.form-control-dark {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: var(--bs-info);
+}
+  
+.masthead {
+    background-image: url('img/bg.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
